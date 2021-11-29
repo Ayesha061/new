@@ -1,0 +1,22 @@
+.title{
+	color:#4C0070; 
+	font-size:45px
+
+}
+
+.desc {
+	color:#396EB0; 
+	font-size: 25px
+
+}
+
+.btn {
+	background-color: #79018C; 
+	color:white ;
+	width: 200px; 
+	height: 70px; 
+	font-size: 20px; 
+	border: none ;
+	border-radius: 7px
+
+}
